@@ -1,0 +1,8 @@
+ 1) nano requirements.txt
+ 2) python3 -m venv (venv/env)
+ 3) source venv/bin/activate
+ -1) (deactivate)
+4) pip3 install requests
+pip3 uninstall library_name
+5) pip3 freeze--->какие библиотеки хранятся
+
